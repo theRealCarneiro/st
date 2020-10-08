@@ -3,6 +3,12 @@ st - simple terminal
 st is a simple terminal emulator for X which sucks less.
 
 
+Patches
+-------
+Bold is not Bright 
+Alpha Focus
+
+
 Requirements
 ------------
 In order to build st you need the Xlib header files.
