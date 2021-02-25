@@ -8,7 +8,6 @@ arch=('i686' 'x86_64' 'armv7h')
 license=('MIT')
 depends=(libxft)
 makedepends=('git' 'make')
-#optdepends=('polybar-dwm-module: polybar with dwm module' 'st' 'dmenu')
 source=(
 		https://dl.suckless.org/st/st-$pkgver.tar.gz
 		config.h
